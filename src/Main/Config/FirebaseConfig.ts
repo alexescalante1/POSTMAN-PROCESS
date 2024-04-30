@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyA0Y4YyPSCdjczFmwEFpk4LYiMzZ01PVF4",
-  authDomain: "cohesionapp-c63ee.firebaseapp.com",
-  projectId: "cohesionapp-c63ee",
-  storageBucket: "cohesionapp-c63ee.appspot.com",
-  messagingSenderId: "271189205653",
-  appId: "1:271189205653:web:a64aaad541e1595bac719c",
-  measurementId: "G-H61DHHN98L"
+  apiKey: "AIzaSyDZ8nYcZg5VIgczYbPjTjprtO4E0md0ZpE",
+  authDomain: "rest-process.firebaseapp.com",
+  projectId: "rest-process",
+  storageBucket: "rest-process.appspot.com",
+  messagingSenderId: "164979449808",
+  appId: "1:164979449808:web:63633157cb25e645c2e3d5",
+  measurementId: "G-XL32SDTVT1"
 };
 
 export default firebaseConfig;
