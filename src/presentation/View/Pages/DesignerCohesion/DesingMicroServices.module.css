@@ -1,0 +1,14 @@
+.DivContent {
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir,
+    helvetica neue, helvetica, ubuntu, roboto, noto, segoe ui, arial, sans-serif;
+  position: relative;
+  overflow: auto;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  min-height: 20000px;
+  min-width: 20000px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
